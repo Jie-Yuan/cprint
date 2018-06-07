@@ -6,8 +6,8 @@ with open("README.md") as f:
     long_description = f.read()
 
 setup(
-    name='pyTool',
-    version='1.0.0',
+    name='color',
+    version='0.0.1',
     url='https://github.com/Jie-Yuan',
     keywords=["DeepLearning", "313303303@qq.com"],
     description=('description'),
